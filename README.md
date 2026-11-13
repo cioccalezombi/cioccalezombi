@@ -18,13 +18,9 @@
 
 ## 👋 Sobre mí
 
-Soy **TU_NOMBRE**, TU_PROFESIÓN desde TU_AÑO. <!-- EDITAR -->
+Soy **Federico**, 
 
-- 🌍 Desde **TU_CIUDAD, TU_PAÍS**
-- 🔭 Actualmente trabajando en **TU_PROYECTO_ACTUAL**
-- 🌱 Aprendiendo **TECNOLOGÍA_1** y **TECNOLOGÍA_2**
-- 💬 Preguntame sobre **TEMA_1**, **TEMA_2**
-- ⚡ Dato curioso: **TU_DATO_CURIOSO**
+- Desde **Puerto Madryn, Argentina**
 
 ---
 
