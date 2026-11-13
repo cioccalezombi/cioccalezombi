@@ -24,7 +24,7 @@ Soy **Federico**,
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 
 **Lenguajes**
