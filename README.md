@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **Federico**, 
 
@@ -26,7 +26,6 @@ Soy **Federico**,
 
 ## 🛠️ Tecnologías
 
-<!-- EDITAR: dejá solo las que uses. Buscá más en https://shields.io o https://simpleicons.org -->
 
 **Lenguajes**
 
@@ -51,7 +50,7 @@ Soy **Federico**,
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <!-- EDITAR: reemplazá cada imagen placehold.co por la captura real (subila al repo, por ej. a /assets, y usá la ruta relativa: assets/proyecto1.png) -->
 
@@ -86,7 +85,7 @@ Soy **Federico**,
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -97,7 +96,7 @@ Soy **Federico**,
 
 ---
 
-## 📚 Aprendiendo / Retos
+## Aprendiendo / Retos
 
 <!-- EDITAR: ideal para mostrar que estás en movimiento aunque tengas pocos repos -->
 
@@ -109,14 +108,11 @@ Soy **Federico**,
 
 ---
 
-## 🌐 Encontrame en
+## Encontrame en
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_NOMBRE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/X-@TU_USUARIO-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TU_USUARIO)
 [![Instagram](https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
-[![YouTube](https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Web-TU_SITIO-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_SITIO.com)
 
