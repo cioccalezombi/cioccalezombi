@@ -2,7 +2,7 @@
 <!-- EDITAR: cambiá el texto del banner (los %20 son espacios) -->
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hola,%20soy%20TU_NOMBRE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TU_PROFESIÓN%20·%20TU_ESPECIALIDAD&descSize=18&descAlignY=58)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Holis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&)
 
 <!-- Texto animado: separá las frases con ; y los espacios con + -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Estoy+aprendiendo+Git+y+GitHub+%F0%9F%9A%80;Construyendo+mis+primeros+proyectos+%F0%9F%92%BB;Siempre+abierto+a+colaborar+%F0%9F%A4%9D)](https://github.com/TU_USUARIO)
