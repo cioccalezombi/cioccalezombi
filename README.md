@@ -1,8 +1,8 @@
 <!-- ========== BANNER ========== -->
-<!-- Banner: la imagen vive en assets/banner.png (subí la carpeta assets al repo) -->
+<!-- Banner: la imagen vive en assets/banner.svg (subí la carpeta assets al repo) -->
 <div align="center">
 
-![Banner](assets/banner.png)
+![Banner](assets/banner.svg)
 
 <!-- Texto animado: separá las frases con ; y los espacios con + -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C8281E&center=true&vCenter=true&width=600&lines=Estoy+aprendiendo+Git+y+GitHub;Construyendo+mis+primeros+proyectos+;Siempre+abierto+a+colaborar+)](https://github.com/cioccalezombi)
