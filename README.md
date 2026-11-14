@@ -96,19 +96,9 @@ Soy **Federico**,
 
 ---
 
-## Aprendiendo / Retos
 
-<!-- EDITAR: ideal para mostrar que estás en movimiento aunque tengas pocos repos -->
 
-| Qué | Estado |
-|---|---|
-| Curso de Git y GitHub | ![En curso](https://img.shields.io/badge/-En%20curso-1f6feb?style=flat-square) |
-| TU_CURSO_O_RETO_2 | ![Pendiente](https://img.shields.io/badge/-Pendiente-6e7681?style=flat-square) |
-| TU_CURSO_O_RETO_3 | ![Completado](https://img.shields.io/badge/-Completado-2ea043?style=flat-square) |
-
----
-
-## Encontrame en
+## Contacto
 
 <div align="center">
 
