@@ -1,16 +1,15 @@
 <!-- ========== BANNER ========== -->
-<!-- EDITAR: cambiá el texto del banner (los %20 son espacios) -->
+<!-- Banner: la imagen vive en assets/banner.png (subí la carpeta assets al repo) -->
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Holis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&)
+![Banner](assets/banner.png)
 
 <!-- Texto animado: separá las frases con ; y los espacios con + -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Estoy+aprendiendo+Git+y+GitHub;Construyendo+mis+primeros+proyectos+;Siempre+abierto+a+colaborar+)](https://github.com/TU_USUARIO)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C8281E&center=true&vCenter=true&width=600&lines=Estoy+aprendiendo+Git+y+GitHub;Construyendo+mis+primeros+proyectos+;Siempre+abierto+a+colaborar+)](https://github.com/cioccalezombi)
 
 <!-- Badges de contador / redes -->
-![Seguidores](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Repositorios-TU_N°-1f6feb?style=for-the-badge&logo=github&labelColor=0d1117)
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&style=for-the-badge&color=1f6feb&labelColor=0d1117)
+![Seguidores](https://img.shields.io/github/followers/cioccalezombi?label=Seguidores&style=for-the-badge&logo=github&color=C8281E&labelColor=1a1a1a)
+![Visitas](https://komarev.com/ghpvc/?username=cioccalezombi&label=Visitas&style=for-the-badge&color=C8281E&labelColor=1a1a1a)
 
 </div>
 
@@ -57,24 +56,24 @@ Soy **Federico**,
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/TU_USUARIO/PROYECTO_1">
-        <img src="https://placehold.co/400x220/0d1117/1f6feb?text=Proyecto+1" alt="Proyecto 1" width="100%">
+      <a href="https://github.com/cioccalezombi/PROYECTO_1">
+        <img src="https://placehold.co/400x220/1a1a1a/C8281E?text=Proyecto+1" alt="Proyecto 1" width="100%">
       </a>
       <br><b>Proyecto 1</b>
       <br><sub>Descripción corta de qué hace.</sub>
       <br><sub><code>Python</code> · <code>Flask</code></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/TU_USUARIO/PROYECTO_2">
-        <img src="https://placehold.co/400x220/0d1117/1f6feb?text=Proyecto+2" alt="Proyecto 2" width="100%">
+      <a href="https://github.com/cioccalezombi/PROYECTO_2">
+        <img src="https://placehold.co/400x220/1a1a1a/C8281E?text=Proyecto+2" alt="Proyecto 2" width="100%">
       </a>
       <br><b>Proyecto 2</b>
       <br><sub>Descripción corta de qué hace.</sub>
       <br><sub><code>React</code> · <code>Tailwind</code></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/TU_USUARIO/PROYECTO_3">
-        <img src="https://placehold.co/400x220/0d1117/1f6feb?text=Proyecto+3" alt="Proyecto 3" width="100%">
+      <a href="https://github.com/cioccalezombi/PROYECTO_3">
+        <img src="https://placehold.co/400x220/1a1a1a/C8281E?text=Proyecto+3" alt="Proyecto 3" width="100%">
       </a>
       <br><b>Proyecto 3</b>
       <br><sub>Descripción corta de qué hace.</sub>
@@ -89,8 +88,8 @@ Soy **Federico**,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cioccalezombi&show_icons=true&hide_border=false&border_color=1a1a1a&bg_color=FFF3B0&title_color=C8281E&text_color=1a1a1a&icon_color=C8281E" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cioccalezombi&layout=compact&hide_border=false&border_color=1a1a1a&bg_color=FFF3B0&title_color=C8281E&text_color=1a1a1a&icon_color=C8281E" alt="Lenguajes" />
 
 </div>
 
@@ -102,12 +101,11 @@ Soy **Federico**,
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-TU_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Web-TU_SITIO-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_SITIO.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@federicocioccale-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/federicocioccale)
+[![Email](https://img.shields.io/badge/Email-cioccalezombi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cioccalezombi@gmail.com)
 
 </div>
 
 <!-- Borrá las redes que no uses -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD81B,100:C8281E&height=100&section=footer)
